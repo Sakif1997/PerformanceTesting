@@ -68,4 +68,5 @@ Locate the "OPENCART_T1.jmx" file contained on this repo
 Continue open OPENCART_T1 to OPENCART_T6
 Open those file
 The Test Plan will be loaded
+![p11](https://user-images.githubusercontent.com/45315685/206380318-ef01e209-0216-41f4-81f9-a85a215d1f40.jpg)
 
