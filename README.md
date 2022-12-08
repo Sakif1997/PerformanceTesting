@@ -97,3 +97,15 @@ Run the test to see if data from CSV file is read and populated in the results.
 ![jj1](https://user-images.githubusercontent.com/45315685/206388883-e31067fa-b508-4352-92ea-37022e1aaab8.jpg)
 ![jj2](https://user-images.githubusercontent.com/45315685/206388971-b623c0d8-5fe7-43ba-be70-6479080e331b.jpg)
 ![jj3](https://user-images.githubusercontent.com/45315685/206389093-05df0ce2-6d30-4df6-b2b8-9c73110877e2.jpg)
+
+## Html reports
+Number of threads 1,2,3,4,5
+Ramp Up Period: 10s
+![ramp1](https://user-images.githubusercontent.com/45315685/206390358-15f57200-4ff2-48c9-9c9a-1c0403641cfc.jpg)
+![r2](https://user-images.githubusercontent.com/45315685/206390675-44f138bf-b2be-4e80-a9e7-30853a77974b.jpg)
+![r3](https://user-images.githubusercontent.com/45315685/206390726-39224944-f3f3-4c61-aa95-d39b6f69a9cc.jpg)
+![r4](https://user-images.githubusercontent.com/45315685/206390789-c47dc56e-42e0-46f2-9f0f-95f1bfd70b70.jpg)
+![r5](https://user-images.githubusercontent.com/45315685/206390952-16dbe323-cc92-44ae-a37b-7a84003e1514.jpg)
+
+
+
