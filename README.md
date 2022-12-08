@@ -70,3 +70,30 @@ Open those file
 The Test Plan will be loaded
 ![p11](https://user-images.githubusercontent.com/45315685/206380318-ef01e209-0216-41f4-81f9-a85a215d1f40.jpg)
 
+#### Test execution
+JMeter should be initialized in non-GUI mode.
+Make a report folder in the bin folder.
+Run Command in jmeter\bin folder.
+
+### generate csv file
+#### Step1. n: non GUI mode
+#### Step2. t: test plan to execute
+#### Step3. output file with results
+
+go to the folder where the files are and open cmd propt on initialized
+#### csv file Comand:  jmeter -n -t  OPENCART_T1.jmx -l OPENCART_T1.csv
+#### jtl file comand:  jmeter -n -t  OPENCART_T1.jmx -l OPENCART_T1.jtl
+#### html file comand: jmeter -g report\OPENCART_T1.jtl -o OPENCART_T1.html
+ 
+## Generate CSV file in Jmeter
+
+Create a CSV file in the test suite folder and add test data to it.
+Add a Config Element CSV Data Set Config in Jmeter.
+Configure ' CSV Data Set Config ' based on the need such as providing path of CSV file and variable names and other configs.
+Run the test to see if data from the CSV file is read and populated in the results.
+Run the test to see if data from CSV file is read and populated in the results.
+
+![af](https://user-images.githubusercontent.com/45315685/206388579-af9b1bcc-503f-43bc-a7b0-36ddc6403c81.PNG)
+![jj1](https://user-images.githubusercontent.com/45315685/206388883-e31067fa-b508-4352-92ea-37022e1aaab8.jpg)
+![jj2](https://user-images.githubusercontent.com/45315685/206388971-b623c0d8-5fe7-43ba-be70-6479080e331b.jpg)
+![jj3](https://user-images.githubusercontent.com/45315685/206389093-05df0ce2-6d30-4df6-b2b8-9c73110877e2.jpg)
