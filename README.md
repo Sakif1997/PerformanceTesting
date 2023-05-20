@@ -25,9 +25,9 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 
 Name: Users
 
-Number of Threads (users): 1 to 6
+Number of Threads(users): 1 to 6
 
-Ramp-Up Period (in seconds): 10
+Ramp-Up Period(in seconds): 10
 
 Loop Count: 1
 
